@@ -1,4 +1,4 @@
-![Lego Schema]([https://github.com/AshaDaniels/SQL-Challenges/blob/main/Lego%20Project/Lego%20Schema.png?raw=true](https://github.com/AshaDaniels/Lego-Schema/blob/main/Lego%20Schema.png))
+![Lego Schema](https://github.com/AshaDaniels/Lego-Schema/blob/main/Lego%20Schema.png)
 
 ## Part 1: Schema Setup
 ```
